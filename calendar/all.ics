@@ -1,0 +1,79 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:shivang-sonam/wedding
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:haldi-2026-shivang-sonam@wedding
+SUMMARY:Shivang & Sonam — Haldi
+DTSTAMP:20261025T184217Z
+DTSTART:20261202T073000Z
+DTEND:20261202T103000Z
+DESCRIPTION:2nd December 2026\, 1:00 PM\nOptions Lawn\, Jabalpur\nDress cod
+	e: Pop colours\nMap: https://maps.app.goo.gl/yhcVGgdqbhrzywR86
+URL:https://maps.app.goo.gl/yhcVGgdqbhrzywR86
+LOCATION:Options Lawn\, Jabalpur
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Haldi — Shivang & Sonam
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sangeet-2026-shivang-sonam@wedding
+SUMMARY:Shivang & Sonam — Sangeet & Engagement
+DTSTAMP:20261025T184217Z
+DTSTART:20261202T133000Z
+DTEND:20261202T180000Z
+DESCRIPTION:2nd December 2026\, 7:00 PM onwards\nOptions Lawn\, Jabalpur\nD
+	ress code: Black\nMap: https://maps.app.goo.gl/yhcVGgdqbhrzywR86
+URL:https://maps.app.goo.gl/yhcVGgdqbhrzywR86
+LOCATION:Options Lawn\, Jabalpur
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Sangeet & Engagement — Shivang & Sonam
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:reception-2026-shivang-sonam@wedding
+SUMMARY:Shivang & Sonam — Reception
+DTSTAMP:20261025T184217Z
+DTSTART:20261203T143000Z
+DTEND:20261203T180000Z
+DESCRIPTION:3rd December 2026\, 8:00 PM onwards\nOptions Lawn\, Jabalpur\nM
+	ap: https://maps.app.goo.gl/yhcVGgdqbhrzywR86
+URL:https://maps.app.goo.gl/yhcVGgdqbhrzywR86
+LOCATION:Options Lawn\, Jabalpur
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reception — Shivang & Sonam
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:phere-2026-shivang-sonam@wedding
+SUMMARY:Shivang & Sonam — Phere
+DTSTAMP:20261025T184217Z
+DTSTART:20261203T183000Z
+DTEND:20261203T223000Z
+DESCRIPTION:4th December 2026\, Midnight\nOptions Lawn\, Jabalpur\nMap: htt
+	ps://maps.app.goo.gl/yhcVGgdqbhrzywR86
+URL:https://maps.app.goo.gl/yhcVGgdqbhrzywR86
+LOCATION:Options Lawn\, Jabalpur
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Phere — Shivang & Sonam
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

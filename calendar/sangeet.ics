@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:shivang-sonam/wedding
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:sangeet-2026-shivang-sonam@wedding
+SUMMARY:Shivang & Sonam — Sangeet & Engagement
+DTSTAMP:20261025T184217Z
+DTSTART:20261202T133000Z
+DTEND:20261202T180000Z
+DESCRIPTION:2nd December 2026\, 7:00 PM onwards\nOptions Lawn\, Jabalpur\nD
+	ress code: Black\nMap: https://maps.app.goo.gl/yhcVGgdqbhrzywR86
+URL:https://maps.app.goo.gl/yhcVGgdqbhrzywR86
+LOCATION:Options Lawn\, Jabalpur
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Sangeet & Engagement — Shivang & Sonam
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+END:VCALENDAR
